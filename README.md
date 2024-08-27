@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a19hu&label=Profile%20views&color=0e75b6&style=flat" alt="a19hu" /> </p>
 
 
-- 🌱 I’m currently learning **Devops,AWS**
+- 🌱 I’m currently learning **Devops ,AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-t6s1.vercel.app/](https://portfolio-t6s1.vercel.app/)
 
@@ -12,10 +12,7 @@
 
 - 📫 How to reach me **b22cs015@iitj.ac.in**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/im_ashutosh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_ashutosh15" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,6 +41,7 @@
 <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a19hu&show_icons=true&locale=en&layout=compact" alt="a19hu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a19hu&show_icons=true&locale=en&layout=compact&theme=dark" alt="a19hu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a19hu&show_icons=true&locale=en" alt="a19hu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a19hu&show_icons=true&locale=en&theme=dark" alt="a19hu" /></p>
+
