@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Devops ,AWS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://www.a19hu.me)
-
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **b22cs015@iitj.ac.in**
